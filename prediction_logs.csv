@@ -1,0 +1,13 @@
+card_type,auth_method,channel,device_type,is_foreign_transaction,txn_count_last_24h,customer_age,is_new_merchant,used_vpn,ip_country_mismatch,billing_shipping_mismatch,cvv_retry_count,velocity_score,time_of_day_hour,day_of_week,is_ai_generated_scam_attempt,merchant_risk_score,prior_disputes,prediction,probability,model_version,Actual_Label
+RuPay,OTP,Online,Android Phone,False,5,32,False,False,False,False,5,7,24,7,False,100,3,1,99.99951903574996,v1,1
+Visa,OTP,Online,Android Phone,False,2,39,False,False,False,False,1,1,18,3,False,42,1,1,50.43275182002791,v1,0
+RuPay,Biometric,Online,Android Phone,False,3,32,False,False,False,False,1,2,24,7,False,10,2,0,7.786789792936586,v1,0
+Visa,OTP,Online,Android Phone,False,50,50,False,False,False,False,1,100,24,7,False,100,10,1,99.99992759971448,v1,
+Visa,OTP,Online,Android Phone,False,2,33,False,False,False,False,1,2,24,7,False,100,3,1,98.67862853339692,v1,
+Visa,OTP,Online,Android Phone,False,2,33,False,False,False,False,1,2,24,7,False,100,1,1,96.57772146702331,v1,
+Visa,Biometric,Online,iPhone,False,2,33,False,False,False,False,1,1,24,7,False,100,1,1,91.16844559512735,v1,
+RuPay,OTP,Online,Android Phone,False,50,50,False,False,False,False,1,2,24,7,False,100,10,1,99.93242498543782,v1,
+Visa,OTP,Online,Android Phone,False,50,50,False,False,False,False,10,100,24,7,False,100,10,1,99.99999999999834,v1,
+Visa,OTP,Online,Android Phone,False,50,50,False,False,False,False,10,100,24,7,False,100,10,1,99.99999999999834,v1,
+Amex,OTP,Online,Android Phone,False,2,32,False,False,False,False,1,1,24,2,False,2,1,0,9.531739387430653,v1,
+Visa,OTP,Online,Android Phone,False,50,50,False,False,False,False,10,100,24,7,False,100,10,1,99.99999999999834,v1,
